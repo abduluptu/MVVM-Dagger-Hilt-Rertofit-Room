@@ -4,4 +4,5 @@ package com.abdul.mvvm_dagger_hilt_rertofit_room.utils
 
 object Constants {
     const val BASE_URL = "https://fakestoreapi.com/"
+    const val TAG = "SOHA"
 }
